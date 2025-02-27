@@ -10,7 +10,7 @@
             c1.carDetails();
             //c1.carDetails(1, "Toyota", "Legander", 2015, 550000);
             c1.Display();
-            Console.WriteLine("***************");
+            Console.WriteLine("**************");
 
             Car c2 = new Car(2, "Toyota", "Camery", 2018, 500000);
 
